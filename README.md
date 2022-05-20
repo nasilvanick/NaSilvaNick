@@ -1,11 +1,13 @@
-## Oi, sou o Nickolas Silva 🤙
+<img align="right" height="467" src="https://raw.githubusercontent.com/gist/NaSilvaNick/c439f50b846fcefc2aad4ae29ca9085b/raw/0d8af076b1cbee9444a00d642704d54419ee4332/card.svg">
+
+<h1>Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou o Nickolas Silva</h1>
 
 *"Nada melhor do que um bom vinho e umas linhas de código"*
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolassilva/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasilvanick/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaSilvaNick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,3 +30,5 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
+
+![Snake animation](https://github.com/NaSilvaNick/NaSilvaNick/blob/output/github-contribution-grid-snake.svg)
