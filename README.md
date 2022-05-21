@@ -3,19 +3,19 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nick</h1>
 <br>
 
-- 🚀 learning and praticing tecnologies
+- 🚀 **learning and praticing tecnologies**
 
-- 🛠️ Lets work together?
+- 🛠️ **Lets work together?**
 
-- 🌱 Full Stack Dev in Dev
+- 🌱 **Full Stack Dev in Dev**
 
-- 🧠 Current learning
+- 🧠 **Current learning**
 
-- 🤓 Very curious Dev
+- 🤓 **Very curious Dev**
 
-- 🍷 I really like wine
+- 🍷 **I really like wine**
 
-- 📱 I want to be a mobile dev
+- 📱 **I want to be a mobile dev**
 
 #
 ### *I will share all my experiences here, I hope you like it*
