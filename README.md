@@ -53,7 +53,6 @@
 ## GitHub Analytics
 <div style="display: inline_block"><br/>
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian" />
-&nbsp
 <img style="height: 195px" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&layout=compact" />
 </div>
 
