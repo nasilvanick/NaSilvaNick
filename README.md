@@ -52,8 +52,8 @@
 
 ## GitHub Analytics
 <div style="display: inline_block"><br/>
-<img style="height: 190px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian" />
-<img style="height: 190px" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&layout=compact" />
+<img style="height: 180px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian" />
+<img style="height: 180px" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&layout=compact" />
 </div>
 
 ## Social Medias
