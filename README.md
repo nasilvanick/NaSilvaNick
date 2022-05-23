@@ -1,24 +1,24 @@
-<img align="right" height="467" src="https://raw.githubusercontent.com/gist/NaSilvaNick/79ae4de1bec773df8bcbf0ac8532873d/raw/353957f565827e4a631e1670748d83f6c03b78ff/card.svg">
+<h1>Hi 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+, I'm Nick
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nickolassilva/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link">
+</a>
+</h1>
 
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nick</h1>
 <br>
 
-- 🚀 **learning and praticing tecnologies**
-
+- 🚀 **learning and praticing tecnologies** 
 - 🛠️ **Lets work together?**
-
 - 🌱 **Full Stack Dev in Dev**
-
 - 🧠 **Current learning**
-
 - 🤓 **Very curious Dev**
-
 - 🍷 **I really like wine**
-
 - 📱 **I want to be a mobile dev**
 
 #
-### *I will share all my experiences here, I hope you like it*
+>### *I will share all my experiences here, I hope you like it*
 #
 
 ## Technologies
@@ -57,11 +57,6 @@
 <img style="height: 180px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian" />
 <img style="height: 180px" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&layout=compact" />
 </div>
-
-## Social Medias
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolassilva/)
-[![instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nasilvanick/)
 
 #
 
