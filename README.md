@@ -1,5 +1,5 @@
 <h1>Hi 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="10px">
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="15px">
 , I'm Nick
 <a style="display: block" href="https://www.linkedin.com/in/nickolassilva/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"></a>
 </h1>
