@@ -1,42 +1,55 @@
-<h1>Hi 
+<h1 align="center">Hi 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="15px">
-, I'm Nick
+, I'm Nickolas
 <a style="display: block" href="https://www.linkedin.com/in/nickolassilva/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link"></a>
 </h1>
+<h3 align="center">Full Stack Dev passionate about technology and UX Design</h3>
 
-<br>
-
-- 🚀 **learning and praticing tecnologies** 
-- 🛠️ **Lets work together?**
-- 🌱 **Full Stack Dev in Dev**
-- 🧠 **Current learning**
-- 🤓 **Very curious Dev**
-- 🍷 **I really like wine**
-- 📱 **I want to be a mobile dev**
-
-#
-<h3 align="center" ><i>I will share all my experiences here, I hope you like it</i></h3>
-
-## Technologies
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-    <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<div align="center">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="100px">
 </div>
-<br>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+<a href="https://www.w3.org/html/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" 
+  alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" 
+  alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
+  alt="sass" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+  alt="javascript" width="38" height="37"/></a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+  alt="typescript" width="38" height="38"/></a>
+<a href="https://reactjs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
+  alt="react" width="40" height="40"/></a>
+<a href="https://angular.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+  alt="angular" width="40" height="40"/></a>
+<a href="https://nodejs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.java.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
+  alt="java" width="40" height="40"/></a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  alt="git" width="40" height="40"/></a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
+  alt="docker" width="40" height="40"/></a>
+<a href="https://www.linux.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+  alt="linux" width="40" height="40"/></a>
+</p>
 
-## Learning
-<div style="display: inline_block"><br/>
+<h3 align="center">Learning</h3>
+<div style="display: inline_block" align="center"><br/>
     <img align="center" alt="next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
@@ -47,13 +60,3 @@
     <img align="center" alt="nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;
 </div>
 <br>
-
-## GitHub Analytics
-<div style="display: inline_block"><br/>
-<img style="height: 180px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NaSilvaNick&show_icons=true&theme=prussian" />
-<img style="height: 180px" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&layout=compact" />
-</div>
-
-#
-
-![Snake animation](https://github.com/NaSilvaNick/NaSilvaNick/blob/output/github-contribution-grid-snake.svg)
