@@ -28,9 +28,6 @@
 <a href="https://reactjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
   alt="react" width="40" height="40"/></a>
-<a href="https://angular.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-  alt="angular" width="40" height="40"/></a>
 <a href="https://nodejs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
   alt="nodejs" width="40" height="40"/></a>
