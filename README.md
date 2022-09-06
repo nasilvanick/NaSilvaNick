@@ -43,14 +43,18 @@
 <a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
   alt="linux" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://redis.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="center">Learning</h3>
 <div style="display: inline_block" align="center"><br/>
     <img align="center" alt="next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-    <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
     <img align="center" alt="kafka" src="https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka" />&nbsp;
